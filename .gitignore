@@ -1,0 +1,36 @@
+
+# Archivos generados por la compilación de .NET
+bin/
+obj/
+
+# Configuración de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Configuración de Visual Studio Code
+.vscode/
+
+# Archivos de Rider y JetBrains
+.idea/
+*.sln.iml
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Variables de entorno y secretos
+.env
+.env.*
+!.env.example
+secrets.json
